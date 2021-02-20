@@ -12,7 +12,7 @@ package uas.if2.pkg10119053.deanghifarifaturrahman.pkg5;
  * NIM     : 10119053
  * NAMA    : Dean Ghifari Faturrahman
  * Kelas   : IF - 2
- * No Soal : 5
+ * NO Soal : 5
  */
 public class UASIF210119053DeanGhifariFaturrahman5 {
 

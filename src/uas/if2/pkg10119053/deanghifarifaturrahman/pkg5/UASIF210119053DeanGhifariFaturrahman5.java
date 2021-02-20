@@ -19,8 +19,11 @@ public class UASIF210119053DeanGhifariFaturrahman5 {
     /**
      * @param args the command line arguments
      */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        ModelMahasiswa model = new ModelMahasiswa("10119053","Dean Ghifari Faturrahman");
+        System.out.println("Nim Mahasiswa : " + model.getNim());
+        System.out.println("Nama Mahasiswa : " + model.getNama());
     }
     
 }

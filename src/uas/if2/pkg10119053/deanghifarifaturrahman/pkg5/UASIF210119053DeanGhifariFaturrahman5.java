@@ -12,6 +12,7 @@ package uas.if2.pkg10119053.deanghifarifaturrahman.pkg5;
  * NIM     : 10119053
  * NAMA    : Dean Ghifari Faturrahman
  * Kelas   : IF - 2
+ * Tanggal : 20 Februari 2021
  * NO Soal : 5
  */
 public class UASIF210119053DeanGhifariFaturrahman5 {
